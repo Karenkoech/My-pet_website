@@ -1,13 +1,14 @@
-h1{
-    color: blue;
-    text-align: center;
-    text-decoration: dotted;
+.important{
+    color: aqua;
+    background-color: brown;
 }
-h2{
-    font-style: italic;
+.unimportant{
+    font-size: 30px;
+    color: hotpink;
+    font-family: sans-serif;
+}
+.petnames{
     font-size: 20px;
-}
-p{
-    background-color:orange;
-    font-size: 15px;
+    color: blue;
+    
 }
