@@ -1,14 +1,6 @@
-.important{
-    color: aqua;
-    background-color: brown;
-}
-.unimportant{
-    font-size: 30px;
-    color: hotpink;
-    font-family: sans-serif;
-}
-.petnames{
-    font-size: 20px;
-    color: blue;
-    
+.test-box{
+    border: 10px solid red;
+    padding: 6px;
+    margin: 20px;
+    background-color: blue;
 }
